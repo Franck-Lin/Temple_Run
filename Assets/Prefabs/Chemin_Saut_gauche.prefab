@@ -1014,7 +1014,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.4474198, y: 1.8927227, z: 1.4474199}
+  m_Size: {x: 1.1, y: 1.8927227, z: 1.1}
   m_Center: {x: 0.00000047683716, y: 0.94636136, z: 0.0000038146973}
 --- !u!65 &65103818646557710
 BoxCollider:
@@ -1026,7 +1026,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.4474198, y: 1.8927227, z: 1.4474199}
+  m_Size: {x: 1.1, y: 1.8927227, z: 1.1}
   m_Center: {x: 0.00000047683716, y: 0.94636136, z: 0.0000038146973}
 --- !u!65 &65209740639962016
 BoxCollider:
@@ -1038,7 +1038,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.4474198, y: 1.8927227, z: 1.4474199}
+  m_Size: {x: 1.1, y: 1.8927227, z: 1.1}
   m_Center: {x: 0.00000047683716, y: 0.94636136, z: 0.0000038146973}
 --- !u!65 &65596334274876962
 BoxCollider:
@@ -1050,7 +1050,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.4474198, y: 1.8927227, z: 1.4474199}
+  m_Size: {x: 1.1, y: 1.8927227, z: 1.1}
   m_Center: {x: 0.00000047683716, y: 0.94636136, z: 0.0000038146973}
 --- !u!135 &135022542192788388
 SphereCollider:
